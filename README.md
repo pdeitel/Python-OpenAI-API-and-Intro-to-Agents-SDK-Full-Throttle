@@ -57,4 +57,13 @@ OpenAI recommends storing your API key in the environment variable `OPENAI_API_K
 
 ---
 
-You are now ready to use the OpenAI APIs!
+# Execution Environment 
+## Anaconda
+**Coming soon**
+
+## Docker
+**Coming soon**
+
+## Zero-Install MyBinder.org Environment
+**Coming soon**
+
