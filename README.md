@@ -1,6 +1,6 @@
 # Programming with the Python OpenAI Generative AI APIs and an Intro to the OpenAI Agents SDK: A Full-Throttle, Code-Intensive Presentation with Paul Deitel
 
-**This course is under development.** The first offering will be in June 2026.
+**This course is under development.** The first offering will be in June 2026. Once completed, the course's examples will be maintained in this repository.
 
 ---
 
